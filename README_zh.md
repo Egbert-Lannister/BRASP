@@ -1,4 +1,4 @@
-# Privacy-Preserving Boolean Range Query to Hide Access and Search Patterns
+# PSP-BRQ: Protecting Search Pattern in Privacy-Preserving Boolean Range Query
 
 [English Version](README.md)
 
