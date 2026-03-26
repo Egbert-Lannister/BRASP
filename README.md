@@ -1,4 +1,4 @@
-# PSP-BRQ: Protecting Search Pattern in Privacy-Preserving Boolean Range Query
+# BRASP: Boolean Range Queries over Encrypted Spatial Data with Access and Search Pattern Privacy
 
 ---
 [中文阅读](README_zh.md)
